@@ -1,12 +1,14 @@
 # Perovskite MultiAI Agent (Not released)
 These code are written during my undergraduate. So, my code skills might not be clean and formal as now. Appologize for that.
 
+I will no longer update since my year work has been put to n-author place. Sorry about that.
+
 ## Schematic of Perovskite Muti-AI Agent
 
 ![image-20250712185319106](assets/image-20250712185319106.png)
 
 ## Functionality of this system
-Please note that since the Unimol (mol predictor) and Synthesis advisor tool has large model weight. So, you can directlt fork the repository from [Unimol](https://github.com/deepmodeling/Uni-Mol) and [RetroExplainer](https://github.com/wangyu-sd/RetroExplainer). This repo is **pre-released** since . I will keep updating it until manuscript submission.
+Please note that since the Unimol (mol predictor) and Synthesis advisor tool has large model weight. So, you can directlt fork the repository from [Unimol](https://github.com/deepmodeling/Uni-Mol) and [RetroExplainer](https://github.com/wangyu-sd/RetroExplainer). This repo is **pre-released** since .
 
 - **Literature Data Extractor**
 
